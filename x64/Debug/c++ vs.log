@@ -1,0 +1,5 @@
+﻿  select.cpp
+C:\Users\Admin\Desktop\c++ vs\c++ vs\select.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  test.cpp
+  Generating Code...
+  c++ vs.vcxproj -> C:\Users\Admin\Desktop\c++ vs\x64\Debug\c++ vs.exe
